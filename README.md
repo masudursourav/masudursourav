@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourav <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A Competitive Programmer and Junior Front-End Developer</h3>
 
-- 🔭 I’m currently working on my **Problem Solving**
+- 🔭 I’m currently working on my **Problem Solving Skill**
 
 - 🌱 I’m currently learning **Algorithm, Data Structures, JAVA**
 
