@@ -48,6 +48,9 @@
   <a href="https://code.visualstudio.com/" target="_blank"> 
     <img src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="vs-code" width="40" height="40"/> 
   </a>
+  <a href="https://atom.io/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" alt="atom-code" width="40" height="40"/> 
+  </a>
 </p>
 
 <p align= "center">
