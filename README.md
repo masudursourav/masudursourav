@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **hey@masudur.me**
 
-- ⚡ What I like to do: **I like so much Coding,Reading and Watching movies**
+- ⚡ What I like to do: **Coding,Reading and Watching movies**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
