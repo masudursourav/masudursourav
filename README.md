@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://masudur.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=vercel&logoColor=white" alt="Website" />
   </a>
 </p>
 
