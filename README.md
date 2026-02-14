@@ -49,8 +49,8 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=masudursourav&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_seconds=21600" alt="stats" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=masudursourav&theme=react&layout=compact&langs_count=8&cache_seconds=21600" alt="top languages" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masudursourav&theme=github_dark" alt="stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masudursourav&theme=github_dark" alt="top languages" />
 </p>
 
 <p align="center">
