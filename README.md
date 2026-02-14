@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/masudursourav/masudursourav/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/masudursourav/masudursourav/output/github-contribution-grid-snake.svg?raw=1" alt="snake animation" />
 </p>
 
 <h2 align="center">About Me</h2>
@@ -49,8 +49,8 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=masudursourav&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_seconds=1800" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudursourav&theme=react&layout=compact&langs_count=8&cache_seconds=1800" alt="top languages" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=masudursourav&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_seconds=21600" alt="stats" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=masudursourav&theme=react&layout=compact&langs_count=8&cache_seconds=21600" alt="top languages" />
 </p>
 
 <p align="center">
